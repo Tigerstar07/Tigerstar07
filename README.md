@@ -14,6 +14,7 @@ The production source for Listio and Listio Drive is private by design. Public r
 
 ## Selected public work
 
+- [Pollybot](https://github.com/Tigerstar07/pollybot) is a paper-first prediction-market research system with evidence adapters, calibration, risk controls, a React dashboard and 137 automated tests.
 - [AI Operations Lab](https://github.com/Tigerstar07/ai-operations-lab) shows a TypeScript operations dashboard, API integrations, deterministic risk gates and automated verification.
 - [ScopeSignal](https://github.com/Tigerstar07/scopesignal) is an AI-assisted SaaS MVP for detecting and explaining project scope creep.
 - [Project Dawn](https://github.com/Tigerstar07/project-dawn) combines a local Ollama workspace with an evidence-based passive web security scanner.
