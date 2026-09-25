@@ -4,7 +4,7 @@ Full-stack developer in Riga. I built and run [Listio](https://listio.lv/), a La
 
 ## Projects
 
-| | |
+| Project | What it does |
 | --- | --- |
 | [Pollybot](https://github.com/Tigerstar07/pollybot) | Scans Polymarket, estimates fair odds from outside data and paper-trades the markets that look mispriced. 137 tests. |
 | [Workbench](https://github.com/Tigerstar07/workbench) | A stock and crypto momentum radar with a paper-trading bot, plus a strategy simulator and a couple of smaller tools. |
