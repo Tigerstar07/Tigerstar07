@@ -6,6 +6,7 @@ Full-stack developer in Riga. I built and run [Listio](https://listio.lv/), a La
 
 | Project | What it does |
 | --- | --- |
+| [Deadlock Optimizer](https://github.com/Tigerstar07/deadlock-optimizer) | Finds the best build for every hero in Valve's Deadlock. Reads the shipped game data, checks the item mechanics against the wiki and runs a parallel solver on 28 cores. Local web app, 32 tests. |
 | [Pollybot](https://github.com/Tigerstar07/pollybot) | Scans Polymarket, estimates fair odds from outside data and paper-trades the markets that look mispriced. 137 tests. |
 | [Workbench](https://github.com/Tigerstar07/workbench) | A stock and crypto momentum radar with a paper-trading bot, plus a strategy simulator and a couple of smaller tools. |
 | [ScopeSignal](https://github.com/Tigerstar07/scopesignal) | Checks a client's request against the agreed scope so freelancers know what to charge extra for. Next.js MVP. |
